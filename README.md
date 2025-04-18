@@ -2,7 +2,7 @@ wearai.app is the official website for WearAI, an AI-powered smart wardrobe and 
 
 WearAI helps you:
 
-👕 Virtually try on outfits using cutting-edge AI
+👕 Virtually try on outfits using trained AI models
 
 🧥 Organise your wardrobe digitally
 
@@ -10,15 +10,21 @@ WearAI helps you:
 
 🎯 Get smart outfit suggestions based on weather, events, and your style
 
-Fashion meets AI — all in one sleek platform.
+Fashion meets AI - all in one platform.
 
-Web Stack:
+🌐 Web Stack:
+
 React
+
 Vite
+
 GitHub Pages for deployment
 
+
 🌐 Check out the live site at:
+
 https://wearai.app
 
-🚀 Deployment
+🚀 Deployment:
+
 This site is automatically deployed to GitHub Pages using a CI/CD GitHub Actions workflow.
