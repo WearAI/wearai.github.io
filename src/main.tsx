@@ -6,7 +6,7 @@ import {BrowserRouter, Routes, Route} from "react-router";
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <BrowserRouter basename="/wearai.github.io/">
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <Routes>
         <Route path="*" element={<App />} />
       </Routes>
